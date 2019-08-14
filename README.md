@@ -1,4 +1,4 @@
 # Four-Balls
 Four Balls Game
 
-RK4 physics
+Gravity shepherding game with RK4 physics
